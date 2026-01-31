@@ -6,7 +6,7 @@ This project focuses on predicting a person's blood group using fingerprint imag
  
 ## Methodology
  Fingerprint image collection (Kaggle dataset)
- Image preprocessing using CNN
+ Image preprocessing using Python Libraries
  Feature learning using CNN
  Model training and validation
  Blood group prediction
@@ -15,4 +15,21 @@ This project focuses on predicting a person's blood group using fingerprint imag
 - Python
 - Google Colab
 - NumPy
+- Covolutional Neural Networks(CNN)
 - TensorFlow / Keras
+
+
+## Dataset
+The fingerprint dataset used in this project was sourced from Kaggle. Due to dataset size and licensing constraints, the dataset is not includedin this repository.
+
+## Note
+This project was developed for academic and experimental purposes only.
+
+##Author
+Amrutha Sharma
+
+
+
+
+
+
