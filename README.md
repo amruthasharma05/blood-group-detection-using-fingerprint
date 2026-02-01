@@ -22,6 +22,11 @@ This project focuses on predicting a person's blood group using fingerprint imag
 ## Dataset
 The fingerprint dataset used in this project was sourced from Kaggle. Due to dataset size and licensing constraints, the dataset is not includedin this repository.
 
+##Model Accuracy
+![Model](Imag_model.jpeg)
+
+
+
 ## Note
 This project was developed for academic and experimental purposes only.
 
